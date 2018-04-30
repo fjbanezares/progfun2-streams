@@ -5,7 +5,7 @@ import common._
 /**
  * This trait represents the layout and building blocks of the game
  */
-trait GameDef {
+trait GameDef  {
 
   /**
    * The case class `Pos` encodes positions in the terrain.

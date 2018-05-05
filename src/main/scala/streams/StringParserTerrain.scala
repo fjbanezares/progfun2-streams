@@ -45,7 +45,7 @@ trait StringParserTerrain extends GameDef {
    *       |oo""".stripMargin
    *
    * is represented as
-   *
+    *
    *   Vector(Vector('S', 'T'), Vector('o', 'o'), Vector('o', 'o'))
    *
    * The resulting function should return `true` if the position `pos` is
